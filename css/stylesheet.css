@@ -1,0 +1,13 @@
+.chess_board{
+	position: relative;
+	padding: 40px;
+	font-size: 60px;
+/*	border: 1px solid red; */
+	border-spacing: 0;
+};
+table{
+	table-layout: fixed;
+}
+.table{
+	background: #3F301D;
+}
